@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppListYou/AppListYou.iml" filepath="$PROJECT_DIR$/AppListYou/AppListYou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudioWorkspace.iml" filepath="$PROJECT_DIR$/StudioWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qRCodeReaderViewlib/qRCodeReaderViewlib.iml" filepath="$PROJECT_DIR$/qRCodeReaderViewlib/qRCodeReaderViewlib.iml" />
+    </modules>
+  </component>
+</project>
+

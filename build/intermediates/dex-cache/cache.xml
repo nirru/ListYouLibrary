@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\StudioWorkspace\AppListYou\build\intermediates\exploded-aar\StudioWorkspace\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="df196e8f11c6bc77115a7752e978bee654364361">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\classes-e102bc8e2885914bbccc041496d3da76de50984c.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\AppListYou\libs\urlimageviewhelper-1.0.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="67125d743e0035a1b157ba8210c2abf1ff374e10">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\urlimageviewhelper-1.0.4-ffdcc4c030ac38907c2128da38aa40df4a88a98f.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\AppListYou\libs\socialauth-android-3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4d6cd8a850bcc72a0de1a3532dccf650595106c7">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\socialauth-android-3.1-53c7a8834e825882483c7d8b3e725e986aea203e.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\AppListYou\libs\socialauth-4.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a867292683d6086af72c7cac181892e118058989">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\socialauth-4.4-8f33a25588104d66786589e160c3034c3f73a6b5.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\AppListYou\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\android-support-v4-df3ae2040aa72db0537d485e9e8d717307a2a9ee.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\AppListYou\build\intermediates\exploded-aar\StudioWorkspace\qRCodeReaderViewlib\unspecified\libs\core-2.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cba0b93b0072105d808ef7a00a107a4eb97874e7">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\core-2.2-2ca227c6209c0ef5f3e248eacc3a289f6b707711.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\AppListYou\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-0be962e48df493afcb856ad0b3fe7a8c838d6cf2.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\AppListYou\build\intermediates\exploded-aar\StudioWorkspace\google-play-services_lib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7e8527c5804015f82b4710712e35a587cf738880">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\classes-793c576f606b3a3a7e52ee445ab45ca6db9ba6b4.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\AppListYou\build\intermediates\exploded-aar\StudioWorkspace\qRCodeReaderViewlib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="578d001d3fe54db18d26284d64479e3a7f2b223e">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\classes-5353c668df567a542594ad5ef3b3cdc264e946e0.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\AppListYou\build\intermediates\exploded-aar\StudioWorkspace\google-play-services_lib\unspecified\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7676c0cb230efa6ac41c47867d372ed5913029d4">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\google-play-services-f22ff4232c708a48761588ba43b85629bd286c77.jar" />
+    </item>
+    <item
+        jar="D:\StudioWorkspace\AppListYou\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\StudioWorkspace\AppListYou\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-8708cc0ce798369f9b521e48bcdcbc8956aea130.jar" />
+    </item>
+
+</items>

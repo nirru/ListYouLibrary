@@ -1,0 +1,6 @@
+include ':library'
+include ':AppListYou'
+include ':google-play-services_lib'
+
+include ':qRCodeReaderViewlib'
+include ':qRCodeReaderViewlib'
